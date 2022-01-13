@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋  Welcome to my github page. I really enjoy learning languages and interesting software.</h1>
-<h2 align="center">I'm Kubilay BAYINDIR</h2>
+<h1 align="center">Hi! 👋 I'm Kubilay BAYINDIR . Welcome to my github page.</h1>
+<h2 align="center"> I really enjoy learning languages and interesting software.</h2>
 <h3 align="center">ELectric And Electronics Engineer</h3>
 
 ### 🛠 &nbsp;Tech Stack
