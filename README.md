@@ -2,7 +2,7 @@ Hi! Welcome to my github page. 👋
 
 I'm Kubilay from Turkey. Elecric And Electronics Engineer  . I really enjoy learning languages and interesting software.
 <h1 align="center">Hi 👋, I'm Kubilay BAYINDIR</h1>
-<h3 align="center">Jr. DevOps Engineer</h3>
+<h3 align="center">ELecric And Electronics Engineer</h3>
 
 ### 🛠 &nbsp;Tech Stack
 
