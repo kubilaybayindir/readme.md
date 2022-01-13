@@ -1,7 +1,4 @@
-
-
-I'm Kubilay from Turkey. Electric And Electronics Engineer  . I really enjoy learning languages and interesting software.
-<h1 align="center">Hi! Welcome to my github page. 👋</h1>
+<h1 align="center">Hi! 👋  Welcome to my github page. I really enjoy learning languages and interesting software.</h1>
 <h2 align="center">I'm Kubilay BAYINDIR</h2>
 <h3 align="center">ELectric And Electronics Engineer</h3>
 
