@@ -1,12 +1,10 @@
 <h1 align="center">Hi! 👋 I'm Kubilay BAYINDIR . Welcome to my github page.</h1>
 <h2 align="center"> I really enjoy learning languages and interesting software.</h2>
-<h3 align="center">ELectric And Electronics Engineer</h3>
+<h3 align="center">Electric And Electronics Engineer</h3>
 
 ### 🛠 &nbsp;Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -17,7 +15,7 @@
 </p>
 
 ### 🐍 &nbsp;Snake eating my contribution graph
-![snake gif](https://github.com/akiffeyzioglu/bayindirkubilay60/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
