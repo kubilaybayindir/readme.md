@@ -1,3 +1,3 @@
 Hi! Welcome to my github page. 👋
 
-I'm Kubilay BAYINDIR. Elecric And Electronics Engineer - Software Lover
+I'm Kubilay from Turkey. Elecric And Electronics Engineer  . I really enjoy learning languages and interesting software.
